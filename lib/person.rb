@@ -8,3 +8,4 @@ initialize(name)
   end
 
 end
+
