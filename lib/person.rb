@@ -1,5 +1,6 @@
 class Person
 
-initialize
+initialize(name)
+  
 
 end
