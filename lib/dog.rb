@@ -27,8 +27,6 @@ end
 Fido = Dog.new
 Pug = Dog.new
 
-Fido.name
-Pug.name
 
 
 
